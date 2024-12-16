@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Wave_Generator", "Wave_Generator\Wave_Generator.cproj", "{DB81AACF-B567-4E6F-9F98-E71DA233D561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB81AACF-B567-4E6F-9F98-E71DA233D561}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DB81AACF-B567-4E6F-9F98-E71DA233D561}.Debug|AVR.Build.0 = Debug|AVR
+		{DB81AACF-B567-4E6F-9F98-E71DA233D561}.Release|AVR.ActiveCfg = Release|AVR
+		{DB81AACF-B567-4E6F-9F98-E71DA233D561}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+C:\Users\HeHateMe_10\Desktop\CMP 4 CI labs\gui\labs CI\bin\Debug\labs CI.exe.config
+C:\Users\HeHateMe_10\Desktop\CMP 4 CI labs\gui\labs CI\bin\Debug\labs CI.exe
+C:\Users\HeHateMe_10\Desktop\CMP 4 CI labs\gui\labs CI\bin\Debug\labs CI.pdb
+C:\Users\HeHateMe_10\Desktop\CMP 4 CI labs\gui\labs CI\obj\Debug\labs CI.csprojAssemblyReference.cache
+C:\Users\HeHateMe_10\Desktop\CMP 4 CI labs\gui\labs CI\obj\Debug\labs_CI.Form1.resources
+C:\Users\HeHateMe_10\Desktop\CMP 4 CI labs\gui\labs CI\obj\Debug\labs_CI.Properties.Resources.resources
+C:\Users\HeHateMe_10\Desktop\CMP 4 CI labs\gui\labs CI\obj\Debug\labs CI.csproj.GenerateResource.cache
+C:\Users\HeHateMe_10\Desktop\CMP 4 CI labs\gui\labs CI\obj\Debug\labs CI.csproj.CoreCompileInputs.cache
+C:\Users\HeHateMe_10\Desktop\CMP 4 CI labs\gui\labs CI\obj\Debug\labs CI.exe
+C:\Users\HeHateMe_10\Desktop\CMP 4 CI labs\gui\labs CI\obj\Debug\labs CI.pdb
+E:\First Term\labs CI\labs CI\bin\Debug\labs CI.exe.config
+E:\First Term\labs CI\labs CI\bin\Debug\labs CI.exe
+E:\First Term\labs CI\labs CI\bin\Debug\labs CI.pdb
+E:\First Term\labs CI\labs CI\obj\Debug\labs CI.csprojAssemblyReference.cache
+E:\First Term\labs CI\labs CI\obj\Debug\labs_CI.Form1.resources
+E:\First Term\labs CI\labs CI\obj\Debug\labs_CI.Properties.Resources.resources
+E:\First Term\labs CI\labs CI\obj\Debug\labs CI.csproj.GenerateResource.cache
+E:\First Term\labs CI\labs CI\obj\Debug\labs CI.csproj.CoreCompileInputs.cache
+E:\First Term\labs CI\labs CI\obj\Debug\labs CI.exe
+E:\First Term\labs CI\labs CI\obj\Debug\labs CI.pdb
+C:\Users\mazen\OneDrive\Desktop\labs CI\bin\Debug\labs CI.exe.config
+C:\Users\mazen\OneDrive\Desktop\labs CI\bin\Debug\labs CI.exe
+C:\Users\mazen\OneDrive\Desktop\labs CI\bin\Debug\labs CI.pdb
+C:\Users\mazen\OneDrive\Desktop\labs CI\obj\Debug\labs CI.csproj.AssemblyReference.cache
+C:\Users\mazen\OneDrive\Desktop\labs CI\obj\Debug\labs_CI.Form1.resources
+C:\Users\mazen\OneDrive\Desktop\labs CI\obj\Debug\labs_CI.Properties.Resources.resources
+C:\Users\mazen\OneDrive\Desktop\labs CI\obj\Debug\labs CI.csproj.GenerateResource.cache
+C:\Users\mazen\OneDrive\Desktop\labs CI\obj\Debug\labs CI.csproj.CoreCompileInputs.cache
+C:\Users\mazen\OneDrive\Desktop\labs CI\obj\Debug\labs CI.exe
+C:\Users\mazen\OneDrive\Desktop\labs CI\obj\Debug\labs CI.pdb
+C:\Users\top\Downloads\labs CI (1)\labs CI\bin\Debug\labs CI.exe.config
+C:\Users\top\Downloads\labs CI (1)\labs CI\bin\Debug\labs CI.exe
+C:\Users\top\Downloads\labs CI (1)\labs CI\bin\Debug\labs CI.pdb
+C:\Users\top\Downloads\labs CI (1)\labs CI\obj\Debug\labs CI.csprojAssemblyReference.cache
+C:\Users\top\Downloads\labs CI (1)\labs CI\obj\Debug\labs_CI.Form1.resources
+C:\Users\top\Downloads\labs CI (1)\labs CI\obj\Debug\labs_CI.Properties.Resources.resources
+C:\Users\top\Downloads\labs CI (1)\labs CI\obj\Debug\labs CI.csproj.GenerateResource.cache
+C:\Users\top\Downloads\labs CI (1)\labs CI\obj\Debug\labs CI.csproj.CoreCompileInputs.cache
+C:\Users\top\Downloads\labs CI (1)\labs CI\obj\Debug\labs CI.exe
+C:\Users\top\Downloads\labs CI (1)\labs CI\obj\Debug\labs CI.pdb
